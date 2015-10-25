@@ -38,3 +38,23 @@ SW0 - PB0
 SW1 - PB1
 SW2 - PB2
 SW3 - PB3
+
+
+
+ADC:
+Port
+PA0 - P2
+
+
+
+
+min:
+value: 0x90, 0x95
+PINA: 10010001
+PORTA: 10010000
+
+max:
+value: 0x80
+PINA: 10000000
+PORTA: 10000000
+
